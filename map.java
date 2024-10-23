@@ -8,6 +8,6 @@ public class map{
     friends.put(4,"sudar");
     friends.put(5,"vicky");
     friends.put(6,"suvin");
-    System.out.println(friends);
+    System.out.println(friends);//done
   }
 }
