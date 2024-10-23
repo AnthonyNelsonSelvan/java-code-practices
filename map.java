@@ -1,6 +1,6 @@
 import java.util.*;
 public class map{
-  public static void main[String[] args]{
+  public static void main(String[] args){
     Map<Integer, String> friends = new HashMap<>();
     friends.put(1,"nelson");
     friends.put(2,"sri");
